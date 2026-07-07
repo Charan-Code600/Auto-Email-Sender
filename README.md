@@ -29,4 +29,4 @@ python main.py
 - email.mime
 
 ## Author
-Charan | Python Developer
+Charan Aade | Python Developer
