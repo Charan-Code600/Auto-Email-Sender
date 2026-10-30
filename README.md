@@ -28,6 +28,26 @@
 
 
 
+<!-- ==================== Open to Freelance Work ==================== -->
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance%20Work-brightgreen?style=for-the-badge&labelColor=1a1a2e" height="1000" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
