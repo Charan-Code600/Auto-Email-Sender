@@ -11,7 +11,27 @@
 </div>
 
 
-A Python command-line tool to send emails automatically via Gmail — with support for multiple recipients, file attachments, multi-line messages, and sending several emails in a single session without restarting.
+<!-- ==================== Tagline ==================== -->
+
+<div align="center">
+
+### A command-line tool that sends emails through Gmail with multiple recipients, file attachments and multi-line messages — built entirely with Python's standard library.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Features
 
