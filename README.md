@@ -3,8 +3,13 @@
 
 
 
+<!-- ==================== ANIMATED BANNER ==================== -->
 
-# 📧 Auto Email Sender Pro
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,100:2c5364&height=160&section=header&text=Auto%20Email%20Sender%20Pro&fontSize=44&fontColor=FFB800&animation=scaleIn&fontAlignY=42&desc=Python%20%7C%20SMTP%20%7C%20Gmail&descSize=18&descAlignY=68" width="100%"/>
+</div>
+
 
 A Python command-line tool to send emails automatically via Gmail — with support for multiple recipients, file attachments, multi-line messages, and sending several emails in a single session without restarting.
 
