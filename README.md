@@ -133,7 +133,66 @@
 </p>
 
 
+<!-- ==================== Demo ==================== -->
 
+<a id="demo"></a>
+
+![2 Demo](https://img.shields.io/badge/2-Demo-FFB800?style=for-the-badge&labelColor=1a1a2e)
+
+<div align="center">
+<i>Real output: a normal email, then an email with a missing attachment. The program warns and still sends it.</i>
+</div>
+
+```
+********************************************************
+        ╔══════════════════════════════════╗
+        ║      AUTO EMAIL SENDER PRO       ║
+        ╚══════════════════════════════════╝
+********************************************************
+
+
+Enter Sender Email: yourname@gmail.com
+Enter App Password:
+------------------------------------
+Enter Receiver Emails (comma separated): yourname@gmail.com
+Enter Subject: Test from Auto Email Sender
+
+Write your message (type END on a new line when done):
+> Hello! This is a test message.
+> END
+Attachment Path (leave blank if none):
+------------------------------------
+📤 Sending email...
+------------------------------------
+✅ Email Sent Successfully!
+📬 To: yourname@gmail.com
+📝 Subject: Test from Auto Email Sender
+------------------------------------
+📄 Email saved in history.txt
+
+Send another email? (yes/no): yes
+------------------------------------
+Enter Receiver Emails (comma separated): yourname@gmail.com
+Enter Subject: Test with missing attachment
+
+Write your message (type END on a new line when done):
+> Attachment test.
+> END
+Attachment Path (leave blank if none): missing.pdf
+------------------------------------
+❌ File not found! Sending without attachment.
+📤 Sending email...
+------------------------------------
+✅ Email Sent Successfully!
+📬 To: yourname@gmail.com
+📝 Subject: Test with missing attachment
+------------------------------------
+📄 Email saved in history.txt
+
+Send another email? (yes/no): no
+
+👋 Thank you for using Auto Email Sender Pro!
+```
 
 
 
