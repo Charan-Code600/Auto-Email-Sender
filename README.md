@@ -114,6 +114,17 @@
 </p>
 
 
+<!-- ==================== Overview ==================== -->
+
+<a id="overview"></a>
+
+![1 Overview](https://img.shields.io/badge/1-Overview-FFB800?style=for-the-badge&labelColor=1a1a2e)
+
+<div align="center">
+
+### Sending similar emails again and again, to several people and with a file attached, is slow and repetitive. This project automates it from the terminal: it logs in to Gmail over SMTP using a secure App Password, builds the message with an optional attachment, sends it, and keeps a log of every email. It was built to practice working with a real network protocol, file handling and safe credential input.
+
+</div>
 
 
 
