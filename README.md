@@ -17,7 +17,7 @@
 
 ### A command-line tool that sends emails through Gmail with multiple recipients, file attachments and multi-line messages — built entirely with Python's standard library.
 
-
+</div>
 
 <!-- ==================== GLOWING DIVIDER ==================== -->
 
