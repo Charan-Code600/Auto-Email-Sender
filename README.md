@@ -257,6 +257,43 @@ Send another email? (yes/no): no
 </p>
 
 
+<!-- ==================== Installation ==================== -->
+
+<a id="installation"></a>
+
+![5 Installation](https://img.shields.io/badge/5-Installation-FFB800?style=for-the-badge&labelColor=1a1a2e)
+
+<div align="center">
+
+**Requirements:** Python 3.x and a Gmail account with an App Password. No libraries to install.
+
+</div>
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Charan-Code600/Auto-Email-Sender.git
+
+# 2. Open the project folder
+cd Auto-Email-Sender
+
+# 3. Run the program
+python auto_email_sender.py
+```
+
+<div align="center">
+
+If `python` is not recognised on your system, use `python3 auto_email_sender.py` instead.
+
+</div>
+
+### Gmail setup (needed once, before the first run)
+
+1. Open your Google Account and go to **Security**.
+2. Turn on **2-Step Verification** if it is not already on.
+3. Search for **App Passwords** and create a new one. Any name works, for example "Python Script".
+4. Copy the 16-character password Google shows. Use this in the program, **not** your normal Gmail password.
+
+> **Security note:** Never write your App Password inside the script or share it publicly. If it is ever exposed, revoke it from your Google Account and create a new one.
 
 
 
