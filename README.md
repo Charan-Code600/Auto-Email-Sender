@@ -195,7 +195,11 @@ Send another email? (yes/no): no
 ```
 
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
 
 
 
