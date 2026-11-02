@@ -231,7 +231,23 @@ Send another email? (yes/no): no
 </p>
 
 
+<!-- ==================== Tech Stack ==================== -->
 
+<a id="tech-stack"></a>
+
+![4 Tech Stack](https://img.shields.io/badge/4-Tech%20Stack-FFB800?style=for-the-badge&labelColor=1a1a2e)
+
+<div align="center">
+
+| Layer | Technology | Used for |
+|:------|:-----------|:---------|
+| **Language** | ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) | Core logic and the command-line prompts |
+| **Protocol** | ![SMTP](https://img.shields.io/badge/Gmail-SMTP-D14836?style=flat-square&logo=gmail&logoColor=white) | Sending the email through `smtp.gmail.com` |
+| **Library** | ![Standard Library](https://img.shields.io/badge/Standard%20Library-4B8BBE?style=flat-square) | `smtplib`, `email.mime`, `getpass`, `os`, `datetime` |
+| **Storage** | ![Text File](https://img.shields.io/badge/Storage-history.txt-2B2B2B?style=flat-square) | Logging every sent email |
+| **Concepts** | SMTP and network requests · File handling · Exception handling · Loops · Functions | Practised throughout the program |
+
+</div>
 
 
 
