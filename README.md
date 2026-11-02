@@ -202,7 +202,26 @@ Send another email? (yes/no): no
 </p>
 
 
+<!-- ==================== Features ==================== -->
 
+<a id="features"></a>
+
+![3 Features](https://img.shields.io/badge/3-Features-FFB800?style=for-the-badge&labelColor=1a1a2e)
+
+<div align="center">
+
+| Feature | What it does |
+|:--|:--|
+| 📩 **Multiple Recipients** | Sends one email to many people at once, separated by commas |
+| 📝 **Multi-line Messages** | Write full paragraphs and type `END` on its own line to finish |
+| 📎 **File Attachments** | Attaches a file from a path you give, or sends without one if you leave it blank |
+| 🛡️ **Safe Attachment Handling** | If the path is missing, invalid or a folder, it shows a warning and still sends the email |
+| ✅ **Recipient Cleanup** | Extra, trailing or blank commas are removed automatically |
+| 🔁 **Several Emails per Run** | After each email, choose to send another or exit without restarting |
+| 📜 **Email History** | Every sent email is logged to `history.txt` with date, recipients, subject and message |
+| 🔒 **Secure Login** | Uses a Gmail App Password, and the input is hidden while you type it |
+
+</div>
 
 
 
