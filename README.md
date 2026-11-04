@@ -332,7 +332,17 @@ If `python` is not recognised on your system, use `python3 auto_email_sender.py`
 </p>
 
 
+<!-- ==================== Project Structure ==================== -->
 
+<a id="project-structure"></a>
+
+![7 Project Structure](https://img.shields.io/badge/7-Project%20Structure-FFB800?style=for-the-badge&labelColor=1a1a2e)
+
+```text
+Auto-Email-Sender/
+├── auto_email_sender.py   # Main program
+└── history.txt            # Auto-generated, log of every sent email
+```
 
 
 
