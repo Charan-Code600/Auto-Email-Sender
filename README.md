@@ -374,7 +374,17 @@ Auto-Email-Sender/
 
 
 
+<!-- ==================== Future Improvements ==================== -->
 
+<a id="future-improvements"></a>
+
+![9 Future Improvements](https://img.shields.io/badge/9-Future%20Improvements-FFB800?style=for-the-badge&labelColor=1a1a2e)
+
+- [ ] Check that each email address has a valid format before sending
+- [ ] Support CC and BCC recipients
+- [ ] Send HTML-formatted emails
+- [ ] Attach more than one file to an email
+- [ ] Quote attachment file names so names with spaces are handled safely
 
 
 
