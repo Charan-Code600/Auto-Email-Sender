@@ -325,7 +325,11 @@ If `python` is not recognised on your system, use `python3 auto_email_sender.py`
 </div>
 
 
+<!-- ==================== GLOWING DIVIDER ==================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=4&width=1200" width="100%" />
+</p>
 
 
 
