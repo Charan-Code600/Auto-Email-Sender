@@ -304,6 +304,44 @@ If `python` is not recognised on your system, use `python3 auto_email_sender.py`
 
 
 
+<!-- ==================== How to Use ==================== -->
+
+<a id="how-to-use"></a>
+
+![6 How to Use](https://img.shields.io/badge/6-How%20to%20Use-FFB800?style=for-the-badge&labelColor=1a1a2e)
+
+<div align="center">
+
+| Step | What to do |
+|:----:|:-----------|
+| 1 | Run the script and enter your Gmail address and App Password |
+| 2 | Enter one or more receiver emails, separated by commas |
+| 3 | Enter a subject |
+| 4 | Write your message on as many lines as you like, then type `END` on its own line |
+| 5 | Enter a file path to attach, or leave it blank to send without one |
+| 6 | The email is sent and a record is saved to `history.txt` |
+| 7 | Type `yes` to send another email, or `no` to exit |
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
