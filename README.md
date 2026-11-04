@@ -395,6 +395,11 @@ Auto-Email-Sender/
 
 
 
+<!-- ==================== Author ==================== -->
+
+<a id="author"></a>
+
+![10 Author](https://img.shields.io/badge/10-Author-FFB800?style=for-the-badge&labelColor=1a1a2e)
 
 
 
