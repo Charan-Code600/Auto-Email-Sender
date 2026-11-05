@@ -437,29 +437,6 @@ Python & Data Analysis Developer
 
 
 
-## Features
-
-- 📩 Send to one or multiple recipients in one go (comma-separated)
-- 📝 Multi-line message support — write full paragraphs, not just a single line; type `END` on its own line when finished
-- 🔁 Send multiple emails in a single run — after each email, choose to send another or exit
-- 📎 File attachment support — if the attachment path is missing, invalid, or a folder instead of a file, the email still sends without it (with a warning) instead of failing
-- ✅ Recipient input validation — extra commas, trailing commas, and blank entries are automatically cleaned up so a stray comma never causes an error
-- 📜 Every sent email is logged to `history.txt`, with the date, recipients, subject, message, and attachment (if any)
-- 🔒 Secure login using a Gmail App Password — your real Gmail password is never used, and the input is hidden as you type it
-- ⚠️ Clear error handling throughout — wrong password, missing files, and connection issues all show a readable message instead of crashing
-
-## Requirements
-
-- Python 3.x
-- No external libraries needed — `smtplib`, `email.mime`, and `getpass` are all part of Python's standard library
-
-## How to Run
-
-```bash
-python email_sender.py
-```
-
-## Gmail Setup (required before first use)
 
 1. Go to your Google Account → **Security**
 2. Turn on **2-Step Verification** (if not already on)
